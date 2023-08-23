@@ -45,5 +45,5 @@ Through the process of creating this Pinterest UI clone, I gained practical know
 
 ## Live Demo
 
-Explore the live demo of the Pinterest UI Clone [here](#).
+Explore the live demo of the Pinterest UI Clone [here](https://aachal01.github.io/pinterest-ui-clone/).
 
